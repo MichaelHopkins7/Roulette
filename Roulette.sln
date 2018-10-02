@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette", "Roulette\Roulette.csproj", "{B11DBC2C-007B-4E34-8B4F-3C1D504F72EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11DBC2C-007B-4E34-8B4F-3C1D504F72EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11DBC2C-007B-4E34-8B4F-3C1D504F72EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11DBC2C-007B-4E34-8B4F-3C1D504F72EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11DBC2C-007B-4E34-8B4F-3C1D504F72EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73FB33CB-BD2A-4E38-B049-16B05D2756A9}
+	EndGlobalSection
+EndGlobal
